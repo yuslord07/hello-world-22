@@ -1,2 +1,3 @@
-# hello-world-22
-Jenkins first job
+# maven-project
+
+Simple Maven Project
